@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| Example Student | Team 00 | Demo | [example evidence](docs/evidence/example-student.md) | - |
+| ตปณต วัตถา | Team 13 | Embedded | [example evidence]([docs/evidence/example-student.md](https://drive.google.com/drive/folders/1BDc6_JQNVopLNoIze2U5lFx_xlYl_-ST)) | - |
 
 ---
 
